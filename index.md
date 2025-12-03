@@ -1,5 +1,5 @@
 
-#Jonathan Ayala 
+## Jonathan Ayala's Portfolio
 
 I am a computer engineer major at CSUF and I plan on graduating in 2029.
 
